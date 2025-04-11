@@ -1,0 +1,35 @@
+# 📝 To-Do List App
+
+A simple and functional **To-Do List** application built using **HTML**, **CSS**, and **JavaScript**. This project was developed to practice DOM manipulation, event handling, and basic JavaScript logic for task management.
+
+## 📌 Features
+
+- Add and remove tasks dynamically
+- Mark tasks as completed
+- Persistent task list using `localStorage` *(optional, if implemented)*
+- Clean and responsive UI
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
+
+## 🧠 Lessons Learned
+
+- Manipulating the DOM with JavaScript
+- Handling events like `click`, `submit`, and `keypress`
+- Structuring small JavaScript projects
+- Using localStorage to persist data *(if included)*
+
+## 🚀 Future Improvements
+
+- Add task editing functionality
+- Filter tasks by status (all, completed, active)
+- Dark mode toggle
+- Drag and drop to reorder tasks
+
+---
+
+🧑‍💻 Created by [João Barcella](https://github.com/JoaoBarcella)
